@@ -1,8 +1,6 @@
-# SG API™
+# SG ALL IN API™
 
-Central Backend & Intelligence Layer for the Shapgenius Ecosystem
-
-## Overview
+The first implementation of SG API™.
 
 SG API™ is the central integration layer powering all Shapgenius products and services.
 
